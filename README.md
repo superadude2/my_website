@@ -4,6 +4,6 @@ This is a really awesome website.
 
 Updates made on main on GitHub before rebase.
 
-# Purpose
+# Repository Purpose
 
-This file is just a readme file.
+This will be a change that causes a conflict.
